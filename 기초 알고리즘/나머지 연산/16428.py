@@ -2,8 +2,8 @@
 
 a,b = map(int, input().split())
 
-c = a//b
-d = a%b
+c = a // b
+d = a % b
 
 if d < 0:
     c += 1
