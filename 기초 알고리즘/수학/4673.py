@@ -12,4 +12,5 @@ for i in range(1,10001):
 for i in range(1,len(numbers)):
     if not numbers[i]:
         print(i)
+        
 

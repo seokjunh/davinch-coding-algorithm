@@ -1,6 +1,7 @@
 # 합
 
 n = int(input())
+
 #1. for 문
 
 s1 = 0
