@@ -3,7 +3,6 @@
 n, k = map(int, input().split())
 
 arr = list(range(1,n+1))
-
 answer = []
 
 while arr:

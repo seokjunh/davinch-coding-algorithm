@@ -3,6 +3,7 @@
 n = int(input())
 
 answer = []
+
 for _ in range(n):
     x = int(input())
 

@@ -6,7 +6,6 @@ import heapq
 input = sys.stdin.readline
 
 n = int(input())
-
 heap = []
 
 for _ in range(n):

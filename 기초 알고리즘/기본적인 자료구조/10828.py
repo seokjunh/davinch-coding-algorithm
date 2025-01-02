@@ -6,6 +6,7 @@ input = sys.stdin.readline
 N = int(input())
 
 stack = []
+
 def query():
     Q = input().split()
     if Q[0] == "push":

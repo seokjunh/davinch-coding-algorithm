@@ -2,7 +2,6 @@
 
 n = int(input())
 
-
 for _ in range(n):
     ps = input()
     stack = []
