@@ -12,7 +12,7 @@ if n < 0:
     print(-1)
 else:
     while n > 0:
-
+        
         for i in range(k-1,-1,-1):
             basket[i] += 1
             n -= 1

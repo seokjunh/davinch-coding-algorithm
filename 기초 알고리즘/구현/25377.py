@@ -3,6 +3,7 @@
 n = int(input())
 
 answer = 1001
+
 for _ in range(n):
     arrive_time, open_time = map(int, input().split())
 
