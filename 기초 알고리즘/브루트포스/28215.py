@@ -14,6 +14,7 @@ for i in range(n):
 comb = list(combinations(range(n),k))
 
 answer = 1e9
+
 for c in comb:
     rst = 0
     for i in range(n):

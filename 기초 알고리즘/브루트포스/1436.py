@@ -3,6 +3,7 @@
 n = int(input())
 
 num = 666
+
 answer = num
 
 while n-1:
