@@ -11,3 +11,4 @@ arr.sort(key=lambda x: x[0])
 
 for i in arr:
     print(*i)
+    
